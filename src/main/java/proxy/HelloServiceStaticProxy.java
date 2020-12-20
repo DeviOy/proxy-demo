@@ -1,4 +1,4 @@
-package service.impl;
+package proxy;
 
 import service.HelloService;
 

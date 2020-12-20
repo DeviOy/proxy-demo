@@ -1,6 +1,6 @@
 import org.junit.Test;
 import service.impl.HelloServiceImpl;
-import service.impl.HelloServiceStaticProxy;
+import proxy.HelloServiceStaticProxy;
 
 public class StaticProxyTest {
     @Test
